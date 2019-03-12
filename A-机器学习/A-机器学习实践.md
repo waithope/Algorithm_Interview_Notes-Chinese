@@ -209,6 +209,7 @@ Index
 > [机器学习中的数据清洗与特征处理综述](https://tech.meituan.com/machinelearning-data-feature-process.html) - 美团点评技术
 
 ## 关联规则挖掘的 3 个度量指标：支持度、置信度、提升度
+> [数据挖掘关联分析中的支持度、置信度和提升度](https://www.jianshu.com/p/dc053deb94f2) - 简书
 
 **支持度**（Support）
 - X → Y 的支持度表示项集 {X,Y} 在总项集中出现的概率
