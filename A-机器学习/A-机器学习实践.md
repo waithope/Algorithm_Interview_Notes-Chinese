@@ -206,7 +206,7 @@ Index
 
 <!-- <div align="center"><img src="../_assets/数据清洗与特征处理.jpg" height="" /></div> -->
 
-> [机器学习中的数据清洗与特征处理综述](https://tech.meituan.com/machinelearning-data-feature-process.html) - 美团点评技术
+> [机器学习中的数据清洗与特征处理综述](https://tech.meituan.com/2015/02/10/machinelearning-data-feature-process.html) - 美团点评技术
 
 ## 关联规则挖掘的 3 个度量指标：支持度、置信度、提升度
 > [数据挖掘关联分析中的支持度、置信度和提升度](https://www.jianshu.com/p/dc053deb94f2) - 简书
